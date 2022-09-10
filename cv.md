@@ -22,4 +22,24 @@ greet()
 
    **GitHub:** https://github.com/Kseniya-17-07-20  
 
-   
+   ### Education 
+
+* Belarusian State University of Economics (2016) High Education Economist
+
+* Faculty of Advanced Training and Retraining of BSU (2020) English (Upper-Intermediate)
+
+* IT-Shattle (2021) HTML/ CSS code
+
+### Professional skills 
+
+* HTML/CSS/SASS
+* JavaScript
+* React
+* Git, GitHub
+* Figma
+
+
+### Experience 
+
+Not relevant
+
