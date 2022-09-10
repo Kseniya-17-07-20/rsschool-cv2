@@ -12,7 +12,7 @@ return ('Feel free co contact me!')
 }
 greet()
 ```
-### Contacts:
+__Contacts__:
 
    **E-mail:** kseniya.i369@mail.ru 
 
@@ -22,7 +22,7 @@ greet()
 
    **GitHub:** https://github.com/Kseniya-17-07-20  
 
-### Education 
+__Education__
 
 * Belarusian State University of Economics (2016) High Education Economist
 
